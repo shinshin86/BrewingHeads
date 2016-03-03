@@ -5,7 +5,8 @@ BrewingHeads is a Podcast channel.
 
 
 ※現在、このREADMEは書きかけの状態であり、<br>
-ポッドキャストは準備中です。
+貼り付けられているURLなどは無効となっています<br>
+また、ポッドキャストは準備中です。
 
 --------
 
@@ -39,3 +40,13 @@ Beerが好きなのと、Talking HeadsとRadioheadが好きだから。<br>
 
 最後になるが、<br>
 この企画は[rebuild.fm](https://rebuild.fm/)にかなり影響を受けている。
+
+------
+
+### "BrewingHeads"サイトについて
+
+この[サイト(BrewingHeads)※まだリンクは貼っていない]()はPython製静的ジェネレーター[Pelican](http://docs.getpelican.com/en/3.6.3/)を使用して構築されています。
+
+**"episodes"** ディレクトリの下にPodcast音声ファイル(mp3)を配置し、<br>
+HTMLファイル上からそちらを参照することにより、Podcastとして配信しています。
+
