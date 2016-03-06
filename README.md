@@ -1,7 +1,9 @@
 # BrewingHeads
 ---------
 
-BrewingHeads is a Podcast channel.
+**BrewingHeads**は<br>
+**音楽**、**テクノロジー**、**アート**の話題を中心に、<br>
+ゲストと話をするポッドキャスト番組です。
 
 
 ※現在、このREADMEは書きかけの状態であり、<br>
@@ -12,15 +14,14 @@ BrewingHeads is a Podcast channel.
 
 ### まえがき
 
-ラジオチャンネルを作ってみようと思っている。
+今年(2016年)Podcastを始めようと思った。
 
 名前は"BrewingHeads"。
 
 この命名の理由は特にない。<br>
 Beerが好きなのと、Talking HeadsとRadioheadが好きだから。<br>
-あと、醸造中の頭、という言葉(ただ直訳しているだけですが)も
+あと、醸造中の頭、という言葉(ただ直訳しているだけですが)も<br>
 なんとなく面白いなと思った。
-
 
 
 最近改めて、人との会話というのは実に面白いものだと実感している。<br>
@@ -34,7 +35,7 @@ Beerが好きなのと、Talking HeadsとRadioheadが好きだから。<br>
 ラジオを配信してみようと思った。
 
 自分一人で話すこともあると思うが、<br>
-基本的にゲストを読んで話をするつもりである。<br>
+基本的にはゲストと共に話をするつもりである。<br>
 分野的には、音楽、テクノロジー、アート辺りになるかなと思っている。
 
 
@@ -45,8 +46,4 @@ Beerが好きなのと、Talking HeadsとRadioheadが好きだから。<br>
 
 ### "BrewingHeads"サイトについて
 
-この[サイト(BrewingHeads)※まだリンクは貼っていない]()はPython製静的ジェネレーター[Pelican](http://docs.getpelican.com/en/3.6.3/)を使用して構築されています。
-
-**"episodes"** ディレクトリの下にPodcast音声ファイル(mp3)を配置し、<br>
-HTMLファイル上からそちらを参照することにより、Podcastとして配信しています。
-
+[このサイト(BrewingHeads)※まだリンクは貼っていない]()はPython製静的ジェネレーター[Pelican](http://docs.getpelican.com/en/3.6.3/)を使用して構築されています。
