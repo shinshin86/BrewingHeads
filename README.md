@@ -42,4 +42,4 @@ Beerが好きなのと、Talking HeadsとRadioheadが好きだから。<br>
 
 ### "BrewingHeads"サイトについて
 
-[このサイト(BrewingHeads)]()はPython製静的ジェネレーター[Pelican](http://docs.getpelican.com/en/3.6.3/)を使用して構築されています。
+[このサイト(BrewingHeads)](http://shinshin86.github.io/BrewingHeads/)はPython製静的ジェネレーター[Pelican](http://docs.getpelican.com/en/3.6.3/)を使用して構築されています。
