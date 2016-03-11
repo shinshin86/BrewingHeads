@@ -6,22 +6,18 @@
 ゲストと話をするポッドキャスト番組です。
 
 
-※現在、このREADMEは書きかけの状態であり、<br>
-貼り付けられているURLなどは無効となっています<br>
-また、ポッドキャストは準備中です。
-
 --------
 
 ### まえがき
 
-今年(2016年)Podcastを始めようと思った。
+今年 - 2016年、Podcastを始めようと思った。
 
 名前は"BrewingHeads"。
 
 この命名の理由は特にない。<br>
 Beerが好きなのと、Talking HeadsとRadioheadが好きだから。<br>
 あと、醸造中の頭、という言葉(ただ直訳しているだけですが)も<br>
-なんとなく面白いなと思った。
+なんとなく面白いな、と思った。
 
 
 最近改めて、人との会話というのは実に面白いものだと実感している。<br>
@@ -46,4 +42,4 @@ Beerが好きなのと、Talking HeadsとRadioheadが好きだから。<br>
 
 ### "BrewingHeads"サイトについて
 
-[このサイト(BrewingHeads)※まだリンクは貼っていない]()はPython製静的ジェネレーター[Pelican](http://docs.getpelican.com/en/3.6.3/)を使用して構築されています。
+[このサイト(BrewingHeads)]()はPython製静的ジェネレーター[Pelican](http://docs.getpelican.com/en/3.6.3/)を使用して構築されています。
