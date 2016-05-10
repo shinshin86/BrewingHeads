@@ -1,7 +1,7 @@
 # BrewingHeads
 ---------
 
-**BrewingHeads**は<br>
+[BrewingHeads](http://shinshin86.github.io/BrewingHeads/)は<br>
 **音楽**、**テクノロジー**、**アート**の話題を中心に、<br>
 ゲストと話をするポッドキャスト番組です。
 
